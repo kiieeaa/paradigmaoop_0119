@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paradigmaoop_0119", "paradi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encapsulation", "..\encapsulation\encapsulation.vcxproj", "{D9FE1B99-2540-4821-9875-37BA7542BCB2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOveriding", "..\NoOveriding\NoOveriding.vcxproj", "{83847C0E-758A-420E-A947-7803ADC37739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x64.Build.0 = Release|x64
 		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x86.ActiveCfg = Release|Win32
 		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x86.Build.0 = Release|Win32
+		{83847C0E-758A-420E-A947-7803ADC37739}.Debug|x64.ActiveCfg = Debug|x64
+		{83847C0E-758A-420E-A947-7803ADC37739}.Debug|x64.Build.0 = Debug|x64
+		{83847C0E-758A-420E-A947-7803ADC37739}.Debug|x86.ActiveCfg = Debug|Win32
+		{83847C0E-758A-420E-A947-7803ADC37739}.Debug|x86.Build.0 = Debug|Win32
+		{83847C0E-758A-420E-A947-7803ADC37739}.Release|x64.ActiveCfg = Release|x64
+		{83847C0E-758A-420E-A947-7803ADC37739}.Release|x64.Build.0 = Release|x64
+		{83847C0E-758A-420E-A947-7803ADC37739}.Release|x86.ActiveCfg = Release|Win32
+		{83847C0E-758A-420E-A947-7803ADC37739}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
