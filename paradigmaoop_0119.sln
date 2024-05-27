@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "paradigmaoop_0119", "paradigmaoop_0119.vcxproj", "{1C396E45-79CA-47D8-AA51-1288EE56DCD4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encapsulation", "..\encapsulation\encapsulation.vcxproj", "{D9FE1B99-2540-4821-9875-37BA7542BCB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1C396E45-79CA-47D8-AA51-1288EE56DCD4}.Release|x64.Build.0 = Release|x64
 		{1C396E45-79CA-47D8-AA51-1288EE56DCD4}.Release|x86.ActiveCfg = Release|Win32
 		{1C396E45-79CA-47D8-AA51-1288EE56DCD4}.Release|x86.Build.0 = Release|Win32
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Debug|x64.ActiveCfg = Debug|x64
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Debug|x64.Build.0 = Debug|x64
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Debug|x86.Build.0 = Debug|Win32
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x64.ActiveCfg = Release|x64
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x64.Build.0 = Release|x64
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x86.ActiveCfg = Release|Win32
+		{D9FE1B99-2540-4821-9875-37BA7542BCB2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

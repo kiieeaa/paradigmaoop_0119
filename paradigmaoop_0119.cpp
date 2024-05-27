@@ -34,5 +34,7 @@ int main() {
 	obyek = &b;
 	obyek->pesan();
 
+
+	return 0;
 }
 
