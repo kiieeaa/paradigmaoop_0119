@@ -6,3 +6,4 @@ public:
 	virtual void pesan() = 0;
 
 
+
