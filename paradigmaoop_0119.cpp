@@ -24,3 +24,11 @@ public:
 };
 
 
+int main() {
+	seseorang* obyek;
+	joko a;
+	lia b;
+
+	obyek = &a;
+}
+
